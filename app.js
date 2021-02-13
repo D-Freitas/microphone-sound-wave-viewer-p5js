@@ -45,7 +45,7 @@ function draw() {
       stroke(`hsl(${i}, 100%, 50%)`);
     }
     
-    if (rotationDegree > 6.23) {
+    if (rotationDegree > 6.27) {
       rotationDegree = 0;
     }
     rotationDegree += .01
